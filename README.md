@@ -1,2 +1,2 @@
 # new_note
-Simple command line utility for creates new notes.
+Simple command line utility that creates new notes.
