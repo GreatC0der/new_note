@@ -7,4 +7,4 @@ Simple command line utility that creates new notes.
  - year - current year.
 
  *Example*
- day.month.year.md
+ template.day.month.year.md
