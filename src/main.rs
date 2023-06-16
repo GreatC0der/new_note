@@ -25,6 +25,9 @@ fn filename_from_template(filename: &str) -> String {
 
     let extention = iterator.next_back().unwrap();
 
+    // removing "template" at the beggining.
+    let _ = iterator.next();
+
     let date = Date::new();
 
     let mut result = String::new();
